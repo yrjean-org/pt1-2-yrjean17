@@ -1,0 +1,5 @@
+a = int(input("1st integer = "))
+b = int(input("2nd integer = "))
+c = a * b
+
+print( "%d * %d = %d" % (a, b, c))
