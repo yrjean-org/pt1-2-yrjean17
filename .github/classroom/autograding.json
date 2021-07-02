@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "python install",
+      "run": "python test",
+      "input": "2\r\n3",
+      "output": "6",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
